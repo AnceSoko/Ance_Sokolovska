@@ -1,0 +1,104 @@
+html,
+body {
+  height: 100%;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin: 40px auto 0 auto;
+  font-size: 90px;
+  text-align: center;
+}
+
+h3 {
+  margin: 40px auto 0 auto;
+  font-size: 40px;
+  text-align: center;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.profile {
+  margin: 100px 0;
+}
+
+.paragraph {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.gradient {
+  background: rgb(233, 174, 238);
+  background: linear-gradient(130deg, rgba(233, 174, 238, 1) 0%, rgba(233, 223, 148, 1) 76%);
+}
+
+.page-header {
+  margin-top: 0px;
+  font-size: 1.25rem;
+  position: relative;
+  padding-top: 100px;
+}
+
+.feature-ul {
+  padding-left: 2rem;
+  list-style-type: circle;
+  line-height: 2rem;
+  margin-bottom: 2rem;
+}
+
+.image {
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.stack {
+  padding-top: 50px;
+}
+
+.resource-title {
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+.resource-p {
+  margin: 3em auto 4em;
+  font-size: 1.2em;
+}
+
+.footer {
+  padding-top: 0px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 60px 0;
+
+}
+
+.button {
+  width: 100%
+}
+
+.bottom {
+  padding-bottom: 100px;
+}
+
+.certificate {
+  padding-top: 100px;
+}
